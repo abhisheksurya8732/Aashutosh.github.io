@@ -10,7 +10,7 @@ body {
   font-family: "Jost", serif;
   min-height: 100vh;
   /* height: 100vh; */
-/*   background-color: rgb(19, 18, 18); */
+  background-color: rgb(19, 18, 18);
   background-color:white;
   background-size: cover;
   background-repeat: no-repeat;
